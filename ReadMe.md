@@ -62,6 +62,9 @@ npm start
 
 ## Screeshots
 
+![image](https://github.com/NischayGoyal1/KraftShala-Assignment/assets/81116984/7a14099d-252e-4b69-8884-1dd656c1839f)
+
+
 
 
 
