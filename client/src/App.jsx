@@ -131,7 +131,7 @@ function App() {
     <>
      <Wrapper>
     <Top>
-      <Logo> Kraftbase Weather App</Logo>
+      <Logo> Kraftshala Weather App</Logo>
       <Logo>Assement By Nischay Goyal</Logo>
     </Top>
     <Middle>
